@@ -7,3 +7,8 @@ It is made on Unity3D using Vuforia AR.
 
 
 ![ar-3d 2](https://user-images.githubusercontent.com/24875366/46138139-c27a9180-c268-11e8-94f9-b60992662e3b.jpeg)
+
+
+</br></br>
+### Please give it a ⭐️ to show your support :)
+
